@@ -37,7 +37,7 @@ const {
   stagger,
   rendererType,
   lineNumbers,
-} = toRefs(options)
+} = toRefs<typeof defaultOptions>(options)
 
 const example = ref(vueBefore)
 const input = ref(code.value)

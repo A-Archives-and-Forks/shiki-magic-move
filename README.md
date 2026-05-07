@@ -265,7 +265,7 @@ You can read [The Magic In Shiki Magic Move](https://antfu.me/posts/shiki-magic-
 
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg'/>
+    <img src="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg" alt="Sponsors"/>
   </a>
 </p>
 
